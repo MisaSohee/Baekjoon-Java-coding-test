@@ -6,5 +6,4 @@
 2. 효율적인 알고리즘 및 최적화 기술을 습득하고 활용합니다.
 3. 문제 해결 능력을 향상시켜, 실제 업무에 적용할 수 있는 수준으로 끌어올립니다.
 
-알고리즘 실력 향상을 위해 매일 푸는 '백준 알고리즘'
 This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
